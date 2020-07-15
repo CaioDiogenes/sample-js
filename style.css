@@ -1,0 +1,8 @@
+.divisor{
+    border: 1px dashed #000;
+    width: 50%;
+    height: 50px;
+    margin: 2% 25%;
+    text-align: left;
+    display: flex;
+}
